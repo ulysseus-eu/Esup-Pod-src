@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: pod/authentication/admin.py:93 pod/main/forms.py:51
 msgid "Email"
@@ -3366,6 +3366,10 @@ msgstr "Champs obligatoires"
 msgid "Fields marked with an asterisk are mandatory."
 msgstr "Les champs marqués avec un astérisque sont obligatoires."
 
+#: pod/main/templates/footer.html:6
+msgid "Top of the page"
+msgstr "Haut de la page"
+
 #: pod/main/templates/footer.html:29
 msgid ""
 "Esup Portal: Community of French higher education establishments for digital "
@@ -4060,7 +4064,7 @@ msgstr "Audiovideocast"
 #: pod/recorder/templates/recorder/opencast-studio.html:45
 #: pod/recorder/templates/recorder/opencast-studio.html:49
 msgid "Studio"
-msgstr ""
+msgstr "Studio"
 
 #: pod/recorder/models.py:108
 msgid "Address IP"
@@ -6212,7 +6216,7 @@ msgstr "Vous n'avez pas les droits d'accès à cette vidéo: %s "
 #: pod/video/views.py:1947
 #, python-format
 msgid "The following video does not exist: %s"
-msgstr "La video suivante n'existe pas : %s"
+msgstr "La vidéo suivante n'existe pas : %s"
 
 #: pod/video/views.py:2276
 msgid "You do not have rights to delete this comment"
